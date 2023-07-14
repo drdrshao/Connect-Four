@@ -1,5 +1,4 @@
 # Connect Four
-George Shao
 
 ## Setup
 * Windows 11
