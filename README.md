@@ -1,5 +1,5 @@
-# A3 Connect Four
-George Shao (g3shao 20849675)
+# Connect Four
+George Shao (g3shao)
 
 ## Setup
 * Windows 11
